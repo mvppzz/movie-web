@@ -1,5 +1,7 @@
 # simple-proxy
 
+PASTE THIS FOR PROXYYYYY: https://jazzy-zuccutto-24d5b4.netlify.app/
+
 Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app).
 Read the docs at https://docs.movie-web.app/proxy/introduction
 
